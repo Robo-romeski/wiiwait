@@ -1,0 +1,12 @@
+@font-face{
+	font-family: 'Season';
+	src: url('../fonts/sea.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1, h2, p, body, .wiiwait {
+
+	font-family: 'Season';
+
+}
